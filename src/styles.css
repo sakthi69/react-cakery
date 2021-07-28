@@ -1,0 +1,175 @@
+body {
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+h1 {
+  color: black;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
+  line-height: 1;
+}
+
+h2 {
+  color: #ff005c;
+  font-family: cursive;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #11999e;
+  font-family: "Montserrat", sans-serif;
+}
+h4 {
+  color: #ff7171;
+}
+
+p {
+  font-family: "Merienda", cursive;
+  line-height: 2;
+}
+
+hr {
+  border: dotted #11999e 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+ul {
+  list-style-image: url(cup-cake.png);
+}
+
+.header {
+  background-color: #f5c0c0;
+  position: relative;
+  padding-top: 100px;
+  border-style: solid solid none solid;
+  color: #ff005c;
+  margin: 0;
+  border-width: 20px;
+}
+.topcheese1 {
+  position: relative;
+  width: 10%;
+  right: 20%;
+}
+
+.topcheese2 {
+  position: relative;
+  width: 10%;
+  left: 20%;
+}
+.topcake {
+  width: 40%;
+}
+
+.birthday-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  padding: 50px;
+
+  transition: transform 0.2s; /* Animation */
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+}
+
+.middle {
+  margin: 100px 0;
+  border-style: solid solid solid solid;
+  border-color: #ff005c;
+  border-bottom-color: #11999e;
+  margin: 0;
+  border-width: 20px;
+  text-align: center;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.exclusive {
+  font-size: 3.5rem;
+}
+
+.offer {
+  font-size: 2.5rem;
+}
+
+.quotes {
+  border-radius: 100%;
+  width: 50%;
+  height: 50%;
+}
+
+.cup-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+
+  padding: 50px;
+
+  transition: transform 0.2s; /* Animation */
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+}
+
+.bullet {
+  font-size: 1.5rem;
+  font-family: "Eagle Lake", cursive;
+  color: #51adcf;
+}
+
+.bulle {
+  width: 20%;
+  height: 20%;
+}
+
+.footer {
+  background-color: #ff005c;
+  position: relative;
+  padding-top: 2px;
+  color: #ff005c;
+  margin: 0;
+}
+
+.name {
+  font-family: "Sacramento", cursive;
+  color: #ffffff;
+  font-size: 5.5rem;
+}
+.address {
+  color: #ffffff;
+  font-size: 1.5rem;
+  line-height: 2;
+}
+
+.copyright {
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
